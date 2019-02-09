@@ -2,13 +2,14 @@
 # This program is for analyzing data on products and potential sales
 import random
 import graphics as g
+
+
 def main():
-  prediction()
+    prediction()
   
   
 def prediction():
-  return
+    return
 
 
 main()
-  
